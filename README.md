@@ -209,3 +209,11 @@ disclosing security issues.
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
+
+
+Testing
+#######
+
+export AWS_ACCESS_KEY_ID=AKIAJDJUNY8MJMOTOK8A
+
+export AWS_SECRET_ACCESS_KEY=9pM11Lh9sPGttoZRMusxMflXymFGXGobbfgeJb9X
